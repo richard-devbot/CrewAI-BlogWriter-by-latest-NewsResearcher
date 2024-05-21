@@ -1,0 +1,7 @@
+crewai
+langchain-community
+langchain-openai
+requests
+duckduckgo-search
+google-generativeai
+langchain-groq
